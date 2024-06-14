@@ -2,3 +2,4 @@ Above code is basic practice code for implementing Transformer blocks in Attenti
 This code was run by colab
 
 fd
+sd
